@@ -1,0 +1,2 @@
+# WpBlogs
+Wordpress Blogs Plugin.
