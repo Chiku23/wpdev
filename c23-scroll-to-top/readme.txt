@@ -1,10 +1,5 @@
 === C23 Scroll-to-Top Button ===
-Contributors: yourusername  
-Tags: scroll-to-top, button  
-Requires at least: 5.0  
-Tested up to: 6.4  
-Stable tag: 1.0  
-License: GPLv2 or later  
+Contributors: Chiku23
 
 A simple plugin to add a customizable scroll-to-top button to your site.
 

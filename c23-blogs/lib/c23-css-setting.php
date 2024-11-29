@@ -5,7 +5,7 @@ add_action('admin_init','funCSSsettingsection');
 
 function blogsCSSSettingSubmenuPageCreate(){
     add_submenu_page(
-        'edit.php?post_type=blogs',
+        'edit.php?post_type=c23_blogs',
         'CSS Setting',
         'CSS',
         'manage_options',
